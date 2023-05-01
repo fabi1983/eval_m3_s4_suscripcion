@@ -1,0 +1,12 @@
+.body{
+    background-color: blue;
+
+}
+
+#suscripcion{
+    margin-top: 5%;
+    display: flex;
+    display:inline center;
+    justify-content: center;
+    
+}
